@@ -47,7 +47,7 @@ optimizer_benchmark/
 
 ```bash
 # Clone the repository
-git clone <repo-url>
+git clone https://github.com/atharvadpatil/optimizer_benchmark.git
 cd optimizer_benchmark
 
 # Create and activate virtual environment
