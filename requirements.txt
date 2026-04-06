@@ -1,6 +1,7 @@
 torch>=2.0
 torchvision>=0.15
 lion-pytorch>=0.2.0
+muon-optimizer>=0.1.0
 schedulefree>=1.0
 matplotlib>=3.7
 seaborn>=0.12
