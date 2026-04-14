@@ -1,0 +1,38 @@
+[
+  {
+    "optimizer": "sgd",
+    "metric": 94.54,
+    "wall_time": 870.5,
+    "sse": 0.1086042504307869
+  },
+  {
+    "optimizer": "adamw",
+    "metric": 93.92,
+    "wall_time": 5775.38,
+    "sse": 0.016262133400745924
+  },
+  {
+    "optimizer": "lion",
+    "metric": 93.18,
+    "wall_time": 7333.11,
+    "sse": 0.012706750614677811
+  },
+  {
+    "optimizer": "ademamix",
+    "metric": 93.95,
+    "wall_time": 774.13,
+    "sse": 0.12136204513453813
+  },
+  {
+    "optimizer": "soap",
+    "metric": 94.86,
+    "wall_time": 4630.71,
+    "sse": 0.020484979625154675
+  },
+  {
+    "optimizer": "schedulefree_adamw",
+    "metric": 90.98,
+    "wall_time": 583.89,
+    "sse": 0.1558170203291716
+  }
+]

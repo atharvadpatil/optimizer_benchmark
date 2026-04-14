@@ -1,0 +1,44 @@
+[
+  {
+    "task": "cifar10",
+    "optimizer": "sgd",
+    "best_metric": 94.54,
+    "sse": 0.1086042504307869,
+    "recommendation": ""
+  },
+  {
+    "task": "cifar10",
+    "optimizer": "adamw",
+    "best_metric": 93.92,
+    "sse": 0.016262133400745924,
+    "recommendation": ""
+  },
+  {
+    "task": "cifar10",
+    "optimizer": "lion",
+    "best_metric": 93.18,
+    "sse": 0.012706750614677811,
+    "recommendation": ""
+  },
+  {
+    "task": "cifar10",
+    "optimizer": "ademamix",
+    "best_metric": 93.95,
+    "sse": 0.12136204513453813,
+    "recommendation": ""
+  },
+  {
+    "task": "cifar10",
+    "optimizer": "soap",
+    "best_metric": 94.86,
+    "sse": 0.020484979625154675,
+    "recommendation": "Best accuracy"
+  },
+  {
+    "task": "cifar10",
+    "optimizer": "schedulefree_adamw",
+    "best_metric": 90.98,
+    "sse": 0.1558170203291716,
+    "recommendation": "Best SSE"
+  }
+]
